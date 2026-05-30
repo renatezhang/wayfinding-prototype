@@ -1,4 +1,4 @@
-# Wayfinding Map Placement in Urban VR Environments
+# Wayfinding Prototype in Urban Travel Scenarios
 
 A VR experiment prototype investigating how the **placement of wayfinding maps** influences navigation performance in an urban travel scenario.  
 Developed as part of an interview research task.
