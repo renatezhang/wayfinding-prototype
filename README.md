@@ -5,8 +5,8 @@ Developed as part of an interview research task.
 
 <p align="middle">
   <img src="map_overview.png" alt="City Overview" width="32%"/>
+  <img src="gameplay.png" alt="Barricade Encounter" width="32%"/>
   <img src="Assets/UI/map_prototype_hd.png" alt="Wayfinding Map Interaction" width="32%"/>
-  <img src="screenshot-barricade.png" alt="Barricade Encounter" width="32%"/>
 </p>
 
 **Creator:** Renate Zhang
