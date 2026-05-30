@@ -42,10 +42,6 @@ Street names and building signage are deliberately reduced to reflect realistic 
 
 Throughout the environment, **unexpected barricades** force participants to adapt their planned route, simulating realistic disruptions to navigation.
 
-<p align="middle">
-  <img src="screenshot-environment.png" alt="Environment Overview" width="60%"/>
-</p>
-
 ### Study Scenario
 
 Participants begin at a **bus stop in the industrial district**, which simulates arriving at the wrong stop, and must navigate to the **university building**. The fastest route requires two right turns, but barricades redirect participants and test their ability to re-plan.
