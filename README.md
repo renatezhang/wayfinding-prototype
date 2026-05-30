@@ -4,9 +4,9 @@ A VR experiment prototype investigating how the **placement of wayfinding maps**
 Developed as part of an interview research task.
 
 <p align="middle">
-  <img src="screenshot-overview.png" alt="City Overview" width="32%"/>
-  <img src="screenshot-wayfindingmap.png" alt="Wayfinding Map Interaction" width="32%"/>
-  <img src="screenshot-barricade.png" alt="Barricade Encounter" width="32%"/>
+  <img src="map_overview.png" alt="City Overview" width="29%"/>
+  <img src="gameplay.png" alt="Barricade Encounter" width="33%"/>
+  <img src="Assets/UI/default_map_prototype_hd.png" alt="Wayfinding Map Interaction" width="32%"/>
 </p>
 
 **Creator:** Renate Zhang
